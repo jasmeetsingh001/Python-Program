@@ -1,1 +1,9 @@
-# **Open Terminal and Type python3 "Ex: script name.py"**
+**In Windows**
+
+Open Command Prompt 
+Type python hackSec.py
+
+**In Linux and Other OS**
+
+Open Terminal 
+Type python3 hackSec.py
