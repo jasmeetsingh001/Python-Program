@@ -1,11 +1,11 @@
 **In Windows**
 
-Open Command Prompt 
+1. Open Command Prompt 
 
-Type python hackSec.py
+2. Type python hackSec.py
 
 **In Linux and Other OS**
 
-Open Terminal
+1. Open Terminal
 
-Type python3 hackSec.py
+2. Type python3 hackSec.py
